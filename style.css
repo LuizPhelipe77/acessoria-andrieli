@@ -41,6 +41,10 @@ header a{
     font-size: 20px;
 }
 
+.menu{
+    display:inline-block;
+}
+
 header nav ul{
     list-style-type: none;
 }
