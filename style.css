@@ -233,9 +233,10 @@ section .sobre{
     .inicio{
         gap: 4rem;
     }
-
-    .sobre{
+    
+    section .sobre-mim h1{
         gap: 4rem;
+        font-size:5rem
     }
 
     .atribuicoes {
